@@ -604,6 +604,7 @@
 				DSTROOT = /tmp/libPhoneNumberiOS.dst;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "libPhoneNumberiOS/libPhoneNumberiOS-Prefix.pch";
+				INSTALL_PATH = /;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				OTHER_LDFLAGS = "-ObjC";
 				PRIVATE_HEADERS_FOLDER_PATH = "$(PUBLIC_HEADERS_FOLDER_PATH)/Private";
@@ -780,6 +781,7 @@
 				DSTROOT = /tmp/libPhoneNumberiOS.dst;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "libPhoneNumberiOS/libPhoneNumberiOS-Prefix.pch";
+				INSTALL_PATH = /;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				OTHER_LDFLAGS = "-ObjC";
 				PRIVATE_HEADERS_FOLDER_PATH = "$(PUBLIC_HEADERS_FOLDER_PATH)/Private";
@@ -795,6 +797,7 @@
 				DSTROOT = /tmp/libPhoneNumberiOS.dst;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "libPhoneNumberiOS/libPhoneNumberiOS-Prefix.pch";
+				INSTALL_PATH = /;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				OTHER_LDFLAGS = "-ObjC";
 				PRIVATE_HEADERS_FOLDER_PATH = "$(PUBLIC_HEADERS_FOLDER_PATH)/Private";
